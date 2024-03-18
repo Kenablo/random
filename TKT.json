@@ -1,0 +1,8 @@
+{
+  "name": "TKT Token",
+  "symbol": "TKT",
+  "description": "TKT Token",
+  "image": "https://raw.githubusercontent.com/SOL-Boy/random/main/logo.png",
+  "uri": "https://raw.githubusercontent.com/SOL-Boy/random/main/TKT.json",
+  "seller_fee_basis_points": 0
+}
