@@ -1,0 +1,9 @@
+{
+	"name":"Milly The Cat",
+	"symbol":"MTC",
+	"description":"Milly the badass cat on SOL",
+    "image": "https://raw.githubusercontent.com/SOL-Boy/random/main/logo.png",
+    "uri": "https://raw.githubusercontent.com/SOL-Boy/random/main/milly.json",
+	"seller_fee_basis_points": 0,
+	"extensions":{"website":"https://millythecat.xyz","twitter":"https://twitter.com/millythecat","x":"https://x.com/millythecat","telegram":"https://t.me/millythecat"}
+	}
